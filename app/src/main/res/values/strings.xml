@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="go_tech_ques">Go Tech Questionnaire</string>
+    <string name="rick_n_morty">Show me what you got!</string>
+    <string name="required">*Required</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="java">Java</string>
+    <string name="c__">C++</string>
+    <string name="your_answer">Your answer</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="other">Other</string>
+    <string name="submit">Submit</string>
+    <string name="star">*</string>
+    <string name="successfully_submitted">Your answers submitted successfully</string>
+    <string name="please_fill_required">"Please fill the required questions :)"</string>
+</resources>

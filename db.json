@@ -1,0 +1,137 @@
+{
+  "questions": [
+    {
+      "index": "1",
+      "text": "What language is your favorite?",
+      "isRequired": "1",
+      "questionType": "options",
+      "suggestedAnswers": [
+        "Kotlin",
+        "Java",
+        "C++"
+      ]
+    },
+    {
+      "index": "2",
+      "text": "What do you like about programming?",
+      "isRequired": "0",
+      "questionType": "free"
+    },
+    {
+      "index": "3",
+      "text": "How was the assignment?",
+      "isRequired": "1",
+      "questionType": "mixOptions",
+      "suggestedAnswers": [
+        "Easy",
+        "Normal",
+        "Hard",
+        "Other:"
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "",
+      "thirdAnswer": "Hard",
+      "id": 1
+    },
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "sseas",
+      "thirdAnswer": "Other:",
+      "id": 2
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "sseas",
+      "thirdAnswer": "Other:",
+      "id": 3
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "",
+      "thirdAnswer": "Easy",
+      "id": 4
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "",
+      "thirdAnswer": "Normal",
+      "id": 5
+    },
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "rick an",
+      "thirdAnswer": "Hard",
+      "id": 6
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "",
+      "thirdAnswer": "Easy",
+      "id": 7
+    },
+    {
+      "firstAnswer": "Java",
+      "secondAnswer": "",
+      "thirdAnswer": "Hard",
+      "id": 8
+    },
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "wzap",
+      "thirdAnswer": "Other:",
+      "id": 9
+    },
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "rrrrrr",
+      "thirdAnswer": "Other:",
+      "id": 10
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "C++",
+      "thirdAnswer": "Other:c++",
+      "id": 11
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "C++",
+      "thirdAnswer": "Easy",
+      "id": 12
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "",
+      "thirdAnswer": "Easy",
+      "id": 13
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "",
+      "thirdAnswer": "Normal",
+      "id": 14
+    },
+    {
+      "firstAnswer": "Java",
+      "secondAnswer": "java",
+      "thirdAnswer": "Hard",
+      "id": 15
+    },
+    {
+      "firstAnswer": "C++",
+      "secondAnswer": "mamamamma",
+      "thirdAnswer": "Easy",
+      "id": 16
+    },
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "",
+      "thirdAnswer": "Other:kk\n",
+      "id": 17
+    }
+  ]
+}
