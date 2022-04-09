@@ -15,4 +15,5 @@
     <string name="star">*</string>
     <string name="successfully_submitted">Your answers submitted successfully</string>
     <string name="please_fill_required">"Please fill the required questions :)"</string>
+    <string name="server_error">"Server Connection Error"</string>
 </resources>

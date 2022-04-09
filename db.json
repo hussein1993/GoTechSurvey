@@ -132,6 +132,18 @@
       "secondAnswer": "",
       "thirdAnswer": "Other:kk\n",
       "id": 17
+    },
+    {
+      "firstAnswer": "Kotlin",
+      "secondAnswer": "fsf",
+      "thirdAnswer": "Normal",
+      "id": 18
+    },
+    {
+      "firstAnswer": "Java",
+      "secondAnswer": "asfas",
+      "thirdAnswer": "Normal",
+      "id": 19
     }
   ]
 }

@@ -29,7 +29,13 @@ class MainActivity : AppCompatActivity() {
 
 
        questionsViewModel.getQuestions().observe(this,Observer<List<QuestionsItem>>{ questions ->
+       if(questions == null){
+           Toast.makeText(this@MainActivity,
+               getString(R.string.server_error),Toast.LENGTH_LONG).show()
+       }else {
            fillUiData(questions)
+       }
+
        })
       // questionsViewModel.loadData()
        binding.submitBtn.setOnClickListener {
@@ -127,6 +133,7 @@ class MainActivity : AppCompatActivity() {
         binding.apply {
             question1RadioGroup.clearCheck()
             question3RadioGroup.clearCheck()
+            q3FreeTextAnswer.setText("")
             q2Answer.setText("")
         }
     }
